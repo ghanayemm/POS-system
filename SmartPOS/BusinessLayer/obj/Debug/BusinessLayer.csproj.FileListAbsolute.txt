@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\bin\Debug\DataAccess.dll
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\bin\Debug\DataAccess.pdb
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache

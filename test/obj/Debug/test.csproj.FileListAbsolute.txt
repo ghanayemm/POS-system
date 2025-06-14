@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\test\bin\Debug\test.exe.config
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\test\bin\Debug\test.exe
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\test\bin\Debug\test.pdb
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\test\obj\Debug\test.exe
+C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\test\obj\Debug\test.pdb
