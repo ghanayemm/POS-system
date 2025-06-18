@@ -11,7 +11,7 @@ namespace DataAccess
     public class clsOptionsData
     {
        
-        public static int AddNewOption(string restaurantName, string Printer, string Address, string ReceiptLine1, string Phone, string logo)
+        public static int AddNewOption(string restaurantName, string Printer, string Address, string ReceiptLine1, string Phone, byte[] logo)
         {
             int optionID = -1;
 
@@ -25,13 +25,12 @@ namespace DataAccess
 
                     using (SqlCommand command = new SqlCommand(query, connection))
                     {
-                        command.Parameters.AddWithValue("@restaurantName", string.IsNullOrEmpty(restaurantName) ? (object)DBNull.Value : restaurantName);
+                        command.Parameters.AddWithValue("@restaurantName", restaurantName);
                         command.Parameters.AddWithValue("@Printer", string.IsNullOrEmpty(Printer) ? (object)DBNull.Value : Printer);
                         command.Parameters.AddWithValue("@Address", string.IsNullOrEmpty(Address) ? (object)DBNull.Value : Address);
                         command.Parameters.AddWithValue("@ReceiptLine1", string.IsNullOrEmpty(ReceiptLine1) ? (object)DBNull.Value : ReceiptLine1);
-                        command.Parameters.AddWithValue("@Phone", string.IsNullOrEmpty(Phone) ? (object)DBNull.Value : Phone);
-                        command.Parameters.AddWithValue("@logo", string.IsNullOrEmpty(logo) ? (object)DBNull.Value : logo);
-                        //command.Parameters.Add("@Logo", SqlDbType.Image).Value = (logo == null) ? DBNull.Value : (object)logo;
+                        command.Parameters.AddWithValue("@Phone",Phone);
+                        command.Parameters.Add("@Logo", SqlDbType.Image).Value = (logo == null) ? DBNull.Value : (object)logo;
 
 
                         connection.Open();
@@ -56,6 +55,7 @@ namespace DataAccess
 
             return optionID;
         }
+
 
 
         //*********** end of methods **************

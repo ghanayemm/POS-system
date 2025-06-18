@@ -4,3 +4,9 @@ C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\DataAccess\obj
 C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\HP\Desktop\Ghanayem Projects\Ghanayem Portfolio\SmartPOS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\DataAccess\obj\Debug\DataAccess.pdb

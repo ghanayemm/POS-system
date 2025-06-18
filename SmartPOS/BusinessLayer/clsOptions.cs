@@ -22,11 +22,11 @@ namespace BusinessLayer
         public string ReceiptLine1 { set; get; }
         public string Phone { set; get; }
 
-        private string _LogoPath;
-        public string logo
+        private byte[] _Logo;
+        public byte[] logo
         {
-            get { return _LogoPath; }
-            set { _LogoPath = value; }
+            get { return _Logo; }
+            set { _Logo = value; } // Set : تسمح بتحديث قيمة _Logo عند تعيين قيمة جديدة
         }
 
         public clsOptions()
@@ -37,13 +37,13 @@ namespace BusinessLayer
             this.Address = "";
             this.ReceiptLine1 = "";
             this.Phone = "";
-            this.logo = "";
+            this.logo = null;
 
             Mode = enMode.AddNew;
         }
 
         private clsOptions(int optionID, string restaurantName, string Printer, string Address, string ReceiptLine1
-                                , string Phone, string logo)
+                                , string Phone, byte[] logo)
         {
             this.optionID = optionID;
             this.restaurantName = restaurantName;

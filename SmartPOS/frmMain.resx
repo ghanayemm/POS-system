@@ -333,7 +333,7 @@
   <data name="pictureBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DgAACw4BQL7hQQAACTNJREFUeF7t3G9sG2cdB3CrvrTVBGumVYxJLbB5GZN4hUAIaRJMAoEACV7xAgS8
+        DQAACw0B7QfALAAACTNJREFUeF7t3G9sG2cdB3CrvrTVBGumVYxJLbB5GZN4hUAIaRJMAoEACV7xAgS8
         2AteMDakvUBCILQXiE1NE8f54yS2Y/vs2LGd2EnadG2arW7Hykq3bqy0TZ2s7bJ2Ky1r19E0TZO0D7+f
         n+funjvf2S7Kc4jd85W+amJf0uvH5+fPVbJPRkZGRkZGRkZGRkZGRkbm/yKbC7s+p+SLzygjJbVlpLQP
         OlNtVmvR0lHajNYCbdqpedqU1pEZRWsya27C2oy58bS5Mb6pGSXKNZbcp0RVVYmoT/vi8e3sn/s/SGbq
@@ -375,13 +375,10 @@
         yQ07Op8SPvHJyMjIyMjIyMjIyMjIyMisT3y+/wDe8o1DHti7fAAAAABJRU5ErkJggg==
 </value>
   </data>
-  <metadata name="lblTitle.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="brnClose.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAABOlJREFUeF7tmmtTG2UYhvkR+ge0racWSjknAQK0hFPxiOInPzg61RYKFKitdvw/
+        EAAACxABrSO9dQAABOlJREFUeF7tmmtTG2UYhvkR+ge0racWSjknAQK0hFPxiOInPzg61RYKFKitdvw/
         1o86tdqq/0Ngk0XIOQHCBw41j8+9u29LUpK8u3lwZp29Z54PZQqT69p97zd5sy1BggQJEiRIkCC1sjcz
         8+r+9OyPpenZ/f3pT6l0fdaeKcwnVJpU8zHtTWBmaG9czUe0N2bPbuxDe0Y/eDHX3rdm5yrmPXtG3rVn
         GDNtTXEIc52KUWcGp5yZpMKAM/0T9kTGqRAe38+HYw/3BqdecTC8B/AA9w08Tz48Zk9o7AcHw3t8deUr

@@ -63,7 +63,7 @@
             this.pnlMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlMenu.Location = new System.Drawing.Point(0, 0);
             this.pnlMenu.Name = "pnlMenu";
-            this.pnlMenu.Size = new System.Drawing.Size(220, 603);
+            this.pnlMenu.Size = new System.Drawing.Size(220, 523);
             this.pnlMenu.TabIndex = 1;
             // 
             // pnlLogo
@@ -210,7 +210,7 @@
             this.pnlTitle.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlTitle.Location = new System.Drawing.Point(220, 0);
             this.pnlTitle.Name = "pnlTitle";
-            this.pnlTitle.Size = new System.Drawing.Size(655, 100);
+            this.pnlTitle.Size = new System.Drawing.Size(652, 100);
             this.pnlTitle.TabIndex = 2;
             // 
             // brnClose
@@ -221,7 +221,7 @@
             this.brnClose.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.brnClose.FlatAppearance.BorderSize = 0;
             this.brnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.brnClose.Location = new System.Drawing.Point(575, 36);
+            this.brnClose.Location = new System.Drawing.Point(572, 36);
             this.brnClose.Name = "brnClose";
             this.brnClose.Size = new System.Drawing.Size(68, 65);
             this.brnClose.TabIndex = 0;
@@ -261,18 +261,18 @@
             this.pnlMainForm.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlMainForm.Location = new System.Drawing.Point(220, 100);
             this.pnlMainForm.Name = "pnlMainForm";
-            this.pnlMainForm.Size = new System.Drawing.Size(655, 503);
+            this.pnlMainForm.Size = new System.Drawing.Size(652, 423);
             this.pnlMainForm.TabIndex = 3;
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(875, 603);
+            this.ClientSize = new System.Drawing.Size(872, 523);
             this.Controls.Add(this.pnlMainForm);
             this.Controls.Add(this.pnlTitle);
             this.Controls.Add(this.pnlMenu);
-            this.MinimumSize = new System.Drawing.Size(893, 650);
+            this.MinimumSize = new System.Drawing.Size(890, 570);
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Smart POS";

@@ -56,7 +56,7 @@
             this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.Image = ((System.Drawing.Image)(resources.GetObject("btnExit.Image")));
             this.btnExit.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnExit.Location = new System.Drawing.Point(578, 400);
+            this.btnExit.Location = new System.Drawing.Point(392, 352);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(95, 96);
             this.btnExit.TabIndex = 6;
@@ -68,7 +68,8 @@
             // pictureBox1
             // 
             this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox1.Location = new System.Drawing.Point(190, 272);
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox1.Location = new System.Drawing.Point(447, 34);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(191, 159);
             this.pictureBox1.TabIndex = 19;
@@ -77,7 +78,7 @@
             // txtPhoto
             // 
             this.txtPhoto.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPhoto.Location = new System.Drawing.Point(190, 451);
+            this.txtPhoto.Location = new System.Drawing.Point(447, 220);
             this.txtPhoto.Name = "txtPhoto";
             this.txtPhoto.Size = new System.Drawing.Size(191, 28);
             this.txtPhoto.TabIndex = 21;
@@ -86,7 +87,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(76, 452);
+            this.label7.Location = new System.Drawing.Point(387, 223);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(60, 25);
             this.label7.TabIndex = 20;
@@ -95,13 +96,14 @@
             // btnSelectPhoto
             // 
             this.btnSelectPhoto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSelectPhoto.Location = new System.Drawing.Point(387, 448);
+            this.btnSelectPhoto.Location = new System.Drawing.Point(597, 257);
             this.btnSelectPhoto.Name = "btnSelectPhoto";
             this.btnSelectPhoto.Size = new System.Drawing.Size(47, 39);
             this.btnSelectPhoto.TabIndex = 22;
             this.btnSelectPhoto.Text = ".......";
             this.btnSelectPhoto.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnSelectPhoto.UseVisualStyleBackColor = true;
+            this.btnSelectPhoto.Click += new System.EventHandler(this.btnSelectPhoto_Click);
             // 
             // txtRestaurantName
             // 
@@ -202,7 +204,7 @@
             this.btnSave.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSave.Image = ((System.Drawing.Image)(resources.GetObject("btnSave.Image")));
             this.btnSave.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnSave.Location = new System.Drawing.Point(492, 400);
+            this.btnSave.Location = new System.Drawing.Point(204, 352);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(95, 96);
             this.btnSave.TabIndex = 33;
@@ -215,7 +217,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(671, 494);
+            this.ClientSize = new System.Drawing.Size(671, 481);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.txtPrinter);
             this.Controls.Add(this.label5);
@@ -234,6 +236,7 @@
             this.Controls.Add(this.btnExit);
             this.Name = "MainOptions";
             this.Text = "MainOptions";
+            this.Load += new System.EventHandler(this.MainOptions_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

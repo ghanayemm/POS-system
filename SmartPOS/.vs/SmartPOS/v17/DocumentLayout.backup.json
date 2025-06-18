@@ -1,9 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Ghanayem Projects\\Ghanayem Portfolio\\SmartPOS\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Ghanayem Portfoli\\POSsystem\\SmartPOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AFA8541-6175-4DCD-AF88-6159A36FE51C}|..\\test\\test.csproj|c:\\users\\hp\\desktop\\ghanayem projects\\ghanayem portfolio\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{368A08B6-33BE-4FEB-984F-D1897FB8C5F0}|SmartPOS.csproj|c:\\users\\hp\\ghanayem portfoli\\possystem\\smartpos\\options\\mainoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368A08B6-33BE-4FEB-984F-D1897FB8C5F0}|SmartPOS.csproj|solutionrelative:options\\mainoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368A08B6-33BE-4FEB-984F-D1897FB8C5F0}|SmartPOS.csproj|c:\\users\\hp\\ghanayem portfoli\\possystem\\smartpos\\options\\mainoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{368A08B6-33BE-4FEB-984F-D1897FB8C5F0}|SmartPOS.csproj|solutionrelative:options\\mainoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,19 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Ghanayem Projects\\Ghanayem Portfolio\\test\\Program.cs",
-              "RelativeDocumentMoniker": "..\\test\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Ghanayem Projects\\Ghanayem Portfolio\\test\\Program.cs",
-              "RelativeToolTip": "..\\test\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwB8AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainOptions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Ghanayem Portfoli\\POSsystem\\SmartPOS\\Options\\MainOptions.cs",
+              "RelativeDocumentMoniker": "Options\\MainOptions.cs",
+              "ToolTip": "C:\\Users\\HP\\Ghanayem Portfoli\\POSsystem\\SmartPOS\\Options\\MainOptions.cs [Design]",
+              "RelativeToolTip": "Options\\MainOptions.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T04:24:18.271Z",
+              "WhenOpened": "2025-06-18T17:55:04.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainOptions.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Ghanayem Portfoli\\POSsystem\\SmartPOS\\Options\\MainOptions.cs",
+              "RelativeDocumentMoniker": "Options\\MainOptions.cs",
+              "ToolTip": "C:\\Users\\HP\\Ghanayem Portfoli\\POSsystem\\SmartPOS\\Options\\MainOptions.cs",
+              "RelativeToolTip": "Options\\MainOptions.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:53:11.702Z",
               "EditorCaption": ""
             }
           ]
