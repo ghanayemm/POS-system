@@ -29,72 +29,73 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainSetup));
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.btnCategories = new System.Windows.Forms.Button();
+            this.btnItems = new System.Windows.Forms.Button();
+            this.btnPayments = new System.Windows.Forms.Button();
+            this.btnUsers = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnCategories
             // 
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button1.Location = new System.Drawing.Point(12, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(135, 125);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Categories";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnCategories.FlatAppearance.BorderSize = 0;
+            this.btnCategories.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCategories.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCategories.Image = ((System.Drawing.Image)(resources.GetObject("btnCategories.Image")));
+            this.btnCategories.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnCategories.Location = new System.Drawing.Point(12, 12);
+            this.btnCategories.Name = "btnCategories";
+            this.btnCategories.Size = new System.Drawing.Size(135, 125);
+            this.btnCategories.TabIndex = 1;
+            this.btnCategories.Text = "Categories";
+            this.btnCategories.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnCategories.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnItems
             // 
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button2.Location = new System.Drawing.Point(12, 132);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(135, 125);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Items";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnItems.FlatAppearance.BorderSize = 0;
+            this.btnItems.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnItems.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnItems.Image = ((System.Drawing.Image)(resources.GetObject("btnItems.Image")));
+            this.btnItems.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnItems.Location = new System.Drawing.Point(12, 132);
+            this.btnItems.Name = "btnItems";
+            this.btnItems.Size = new System.Drawing.Size(135, 125);
+            this.btnItems.TabIndex = 2;
+            this.btnItems.Text = "Items";
+            this.btnItems.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnItems.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnPayments
             // 
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
-            this.button3.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button3.Location = new System.Drawing.Point(12, 252);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(135, 125);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "Payments";
-            this.button3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnPayments.FlatAppearance.BorderSize = 0;
+            this.btnPayments.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPayments.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPayments.Image = ((System.Drawing.Image)(resources.GetObject("btnPayments.Image")));
+            this.btnPayments.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnPayments.Location = new System.Drawing.Point(12, 252);
+            this.btnPayments.Name = "btnPayments";
+            this.btnPayments.Size = new System.Drawing.Size(135, 125);
+            this.btnPayments.TabIndex = 3;
+            this.btnPayments.Text = "Payments";
+            this.btnPayments.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnPayments.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // btnUsers
             // 
-            this.button4.FlatAppearance.BorderSize = 0;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
-            this.button4.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button4.Location = new System.Drawing.Point(138, 132);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(135, 125);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "Users";
-            this.button4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnUsers.FlatAppearance.BorderSize = 0;
+            this.btnUsers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnUsers.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUsers.Image = ((System.Drawing.Image)(resources.GetObject("btnUsers.Image")));
+            this.btnUsers.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnUsers.Location = new System.Drawing.Point(138, 132);
+            this.btnUsers.Name = "btnUsers";
+            this.btnUsers.Size = new System.Drawing.Size(135, 125);
+            this.btnUsers.TabIndex = 4;
+            this.btnUsers.Text = "Users";
+            this.btnUsers.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnUsers.UseVisualStyleBackColor = true;
+            this.btnUsers.Click += new System.EventHandler(this.btnUsers_Click);
             // 
             // btnExit
             // 
@@ -119,10 +120,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(825, 428);
             this.Controls.Add(this.btnExit);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnUsers);
+            this.Controls.Add(this.btnPayments);
+            this.Controls.Add(this.btnItems);
+            this.Controls.Add(this.btnCategories);
             this.Name = "MainSetup";
             this.Text = "MainSetup";
             this.Load += new System.EventHandler(this.MainSetup_Load);
@@ -132,10 +133,10 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button btnCategories;
+        private System.Windows.Forms.Button btnItems;
+        private System.Windows.Forms.Button btnPayments;
+        private System.Windows.Forms.Button btnUsers;
         private System.Windows.Forms.Button btnExit;
     }
 }

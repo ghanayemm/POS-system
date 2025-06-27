@@ -26,5 +26,23 @@ namespace SmartPOS.Setup
         {
             this.Close();
         }
+
+        private void btnUsers_Click(object sender, EventArgs e)
+        {
+            //Form frm = new frmUsers();
+            //frm.ShowDialog();
+            //this.Close();
+
+            this.Hide(); // إخفاء النموذج الحالي (بدلاً من إغلاقه مباشرة)
+           
+
+            using (frmUsers frm = new frmUsers())
+            {
+                frm.ShowDialog(); // عرض النموذج الجديد
+            }
+
+            this.Show(); // إعادة عرض النموذج الحالي بعد إغلاق النموذج الجديد
+
+        }
     }
 }

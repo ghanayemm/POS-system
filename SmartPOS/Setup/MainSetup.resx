@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnCategories.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAA21JREFUeF7tnM9LFVEUgKVIwQqKgmhThP0HUpucJ1G2aaYkeKtaS3oni35obXw9
+        DQAACw0B7QfALAAAA21JREFUeF7tnM9LFVEUgKVIwQqKgmhThP0HUpucJ1G2aaYkeKtaS3oni35obXw9
         IahFYuUrXSRJBEUUROCiSFIqN0YFkhYEQeDPpySl+Ejf7T69hOaZ5s4cZ5pxzgffRsa5x48ZnOeMkxd1
         ClKzDQWpLHer3E10oYBIKCCSyAWMx+OrSw+Z+2M6Ox0zWC3Wzcm+NiiMqnKscFCsVxTGdLMzZph8uSw6
         1d4OhVFVjhYOxFFXD0XAGLWAr6EIGCMW0OyFImCkgEgp4Lzjwi9u3H72+RMojKpytHBgFVAz2EW5iWMi
@@ -139,10 +139,10 @@
         AAAASUVORK5CYII=
 </value>
   </data>
-  <data name="button2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnItems.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAASVJREFUeF7t1rEJAkEUBuFt0mKswipMbUBN7MDYEgxE5BRNVhYueMFy4M4eHDg/
+        DQAACw0B7QfALAAAASVJREFUeF7t1rEJAkEUBuFt0mKswipMbUBN7MDYEgxE5BRNVhYueMFy4M4eHDg/
         THgP9osuOeecc84559zyNhxSnrv3OeXP5bfKN7VbvRsZ2lc72jsBYQLCBIQJCBMQJiDsbwAfu5Rvm/69
         TnWkqco3tVu08sb45pGhffHYfZvydd2/YV9Hmqp8U7tFK2+Mbx4Z2hePCdiweEzAhsVjAjYsHhOwYfGY
         gHDPY1rF471a0n9geeP43P4TEE5AOAHhBISbC3BJCQgTECYgTECYgDABYQLCBIQJCBMQJiBMQJiAMAFh
@@ -150,10 +150,10 @@
         c865DkvpCw1zEDzboWvGAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnPayments.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAC11JREFUeF7tmnlQk2cex93durs9/tntMevs7szudDrd7c5uu93WA3tMuz0UsRVR
+        DQAACw0B7QfALAAAC11JREFUeF7tmnlQk2cex93durs9/tntMevs7szudDrd7c5uu93WA3tMuz0UsRVR
         VATkvsnNEZIAgYRAgATkDDdCkUOx1RavqrW1tV4tW6tWW6u2tlLPDiBHKXz3eV7yxgTeCCYhVvt+Zz4T
         yPv83vd9PnmP53mTaXz48OHDhw8fPnz48OHDhw8fPnx+avnPoswH50gNH8xVl5x9Oqfi/G2NxnTGQ2Lc
         8/TSzL+au+9cnponv/+pjNJTCwY64YXDPws8uw9iblLhuScXJd9r1uB45ojy6hd0H2JWvIDwCA7gD9iL
@@ -205,10 +205,10 @@
         QmCC
 </value>
   </data>
-  <data name="button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnUsers.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAEbVJREFUeF7tnAlQVVl6x3ucODNJpZNJJ6k2PVOVdOIk1UklncwkM5W2uxUQXKHd
+        DQAACw0B7QfALAAAEbVJREFUeF7tnAlQVVl6x3ucODNJpZNJJ6k2PVOVdOIk1UklncwkM5W2uxUQXKHd
         AGV5IIii7DyQTUVAFje0sRFRaFZlEQVBVhGRxQVU4LGITCM6YIMg0or2WG3rl++7793Hvfcd5D3eA+0K
         X9Wvrs2955zv+7+z3XPO7bdmbMZmbMZmbMZmbMZmjLORkZGff/PNN2aPHz8OevToURJeS/F6Ea/X8HoO
         yUJ2jo6OmgDAT1TJJm2Yx2ws7zeYnzXmK8dyQvEahfggdvjfnxqinCk1CgKddUIuIN+j06AN+OwgXgN1
@@ -290,7 +290,7 @@
   <data name="btnExit.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DgAACw4BQL7hQQAABOlJREFUeF7tmmtTG2UYhvkR+ge0racWSjknAQK0hFPxiOInPzg61RYKFKitdvw/
+        DAAACwwBP0AiyAAABOlJREFUeF7tmmtTG2UYhvkR+ge0racWSjknAQK0hFPxiOInPzg61RYKFKitdvw/
         1o86tdqq/0Ngk0XIOQHCBw41j8+9u29LUpK8u3lwZp29Z54PZQqT69p97zd5sy1BggQJEiRIkCC1sjcz
         8+r+9OyPpenZ/f3pT6l0fdaeKcwnVJpU8zHtTWBmaG9czUe0N2bPbuxDe0Y/eDHX3rdm5yrmPXtG3rVn
         GDNtTXEIc52KUWcGp5yZpMKAM/0T9kTGqRAe38+HYw/3BqdecTC8B/AA9w08Tz48Zk9o7AcHw3t8deUr

@@ -51,7 +51,7 @@ namespace SmartPOS.Options
         }
 
 
-        public  void ClearData()
+        private  void ClearData()
         {
             txtRestaurantName.Text = string.Empty;
             txtAddress.Text = string.Empty;

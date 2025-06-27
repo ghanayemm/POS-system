@@ -50,3 +50,4 @@ C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\obj\Debug\SmartPOS.csproj.CoreC
 C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\obj\Debug\SmartPOS.csproj.Up2Date
 C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\obj\Debug\SmartPOS.exe
 C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\obj\Debug\SmartPOS.pdb
+C:\Users\HP\Ghanayem Portfoli\POSsystem\SmartPOS\obj\Debug\SmartPOS.Setup.frmUsers.resources
