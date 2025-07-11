@@ -17,7 +17,7 @@ namespace DataAccess
 
             try
             {
-                using (SqlConnection connection = new SqlConnection(clsDataSccessSettings.ConnectionString))
+                using (SqlConnection connection = new SqlConnection(clsDataAccessSettings.ConnectionString))
                 {
                     string query = @"INSERT INTO Options(restaurantName,Printer,Address,ReceiptLine1,Phone,Logo)   
                              VALUES (@restaurantName,@Printer,@Address,@ReceiptLine1,@Phone,@Logo);

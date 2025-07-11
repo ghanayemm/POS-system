@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="clsDataSccessSettings.cs" />
+    <Compile Include="clsDataAccessSettings.cs" />
     <Compile Include="clsOptionsData.cs" />
     <Compile Include="clsPOSData.cs" />
     <Compile Include="clsReportsData.cs" />

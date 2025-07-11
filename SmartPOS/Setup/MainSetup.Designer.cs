@@ -58,7 +58,7 @@
             this.btnItems.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnItems.Image = ((System.Drawing.Image)(resources.GetObject("btnItems.Image")));
             this.btnItems.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnItems.Location = new System.Drawing.Point(12, 132);
+            this.btnItems.Location = new System.Drawing.Point(328, 12);
             this.btnItems.Name = "btnItems";
             this.btnItems.Size = new System.Drawing.Size(135, 125);
             this.btnItems.TabIndex = 2;
@@ -73,7 +73,7 @@
             this.btnPayments.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPayments.Image = ((System.Drawing.Image)(resources.GetObject("btnPayments.Image")));
             this.btnPayments.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnPayments.Location = new System.Drawing.Point(12, 252);
+            this.btnPayments.Location = new System.Drawing.Point(486, 3);
             this.btnPayments.Name = "btnPayments";
             this.btnPayments.Size = new System.Drawing.Size(135, 125);
             this.btnPayments.TabIndex = 3;
@@ -88,7 +88,7 @@
             this.btnUsers.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUsers.Image = ((System.Drawing.Image)(resources.GetObject("btnUsers.Image")));
             this.btnUsers.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnUsers.Location = new System.Drawing.Point(138, 132);
+            this.btnUsers.Location = new System.Drawing.Point(170, 12);
             this.btnUsers.Name = "btnUsers";
             this.btnUsers.Size = new System.Drawing.Size(135, 125);
             this.btnUsers.TabIndex = 4;
@@ -124,6 +124,7 @@
             this.Controls.Add(this.btnPayments);
             this.Controls.Add(this.btnItems);
             this.Controls.Add(this.btnCategories);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "MainSetup";
             this.Text = "MainSetup";
             this.Load += new System.EventHandler(this.MainSetup_Load);
